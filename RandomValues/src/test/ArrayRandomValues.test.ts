@@ -1,5 +1,5 @@
-import ArrayRandomValues from "./ArrayRandomValues";
-import Products from "./Products";
+import ArrayRandomValues from "../ArrayRandomValues";
+import Products from "../Products";
 
 describe("Validar a randomização do produto", () => {
     it("Deve randomizar a array de produtos", () => {
